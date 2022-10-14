@@ -1,6 +1,6 @@
 ## Anonymous Sender Bot [@AnonySendBot](https://t.me/AnonySendBot)
 
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/AnonymousSenderBot"><img src="https://telegra.ph/file/107ff8af751ad7b72e9b9.jpg" width="5000"></a></p>
+<p align="center"><a href="https://www.github.com/Twilight-Killer/AnonymousSenderBot"><img src="https://telegra.ph/file/107ff8af751ad7b72e9b9.jpg" width="5000"></a></p>
 
 Telegram bot to remove the forwarded tag from messages.
 
